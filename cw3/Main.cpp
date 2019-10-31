@@ -25,6 +25,7 @@ int main() {
 	//p1.sprawdz_ocene();
 
 	cout << "abbc" << endl;
+	cout << "aaa";
 
 	return 0;
 }
